@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drskaf
 - 👀 I’m interested in deep learning and medical imaging
-- 🌱 I’m currently learning CNN
+- 🌱 I’m currently learning CNN and GAN
 - 💞️ I’m looking to collaborate on tbc
 - 📫 How to reach me via email on: ebraham.alskaf@kcl.ac.uk
 
