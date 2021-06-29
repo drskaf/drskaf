@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drskaf
 - 👀 I’m interested in deep learning and Cardiovascular data
-- 🌱 I’m currently learning CNN and GAN
+- 🌱 I’m currently learning deep learning modelling in Cardiovascular data
 - 💞️ I’m looking to collaborate on tbc
 - 📫 How to reach me via email on: ebraham.alskaf@kcl.ac.uk
 
